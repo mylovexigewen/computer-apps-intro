@@ -1,0 +1,13 @@
+// 在 Cloudflare 仪表板中推荐的设置：
+
+// SSL/TLS 设置
+SSL/TLS: "Flexible" 或 "Full"
+
+// 页面规则建议
+Cache Level: "Cache Everything"
+Edge Cache TTL: "1 month"
+
+// 速度优化
+Auto Minify: 启用 (JavaScript, CSS, HTML)
+Brotli: 启用
+Rocket Loader: 启用
